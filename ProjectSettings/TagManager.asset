@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - level1weapon
+  - level2weapon
+  - level3weapon
+  - level1enemy
+  - doorto1
+  - doortosaved
+  - doortotutorial
+  - doortohome
+  - goal
+  - cure
+  - Golf
+  - hole
+  - doortogolf
+  - goal1
+  - goal2
+  - goal3
+  - hppot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - room
+  - ceiling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3454627315
+    locked: 0
+  - name: New Layer
+    uniqueID: 4167641075
+    locked: 0
